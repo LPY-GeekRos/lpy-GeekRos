@@ -1,6 +1,5 @@
 # Hi 👋, I'm lpy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LPY-GeekRos" alt="LPY-GeekRos" /></a> </p>
 
 - 🌱 I'm currently learning **RL and  so  on**
 

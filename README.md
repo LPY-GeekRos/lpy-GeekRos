@@ -1,6 +1,5 @@
 # Hi 👋, I'm lpy
 
-
 - 🌱 I'm currently learning **RL and  so  on**
 
 <h3 align="left">Connect with me:</h3>
